@@ -6,7 +6,7 @@ Dengan melihat 5 nilai pertama dari kumpulan datanya, diketahui sebagai berikut 
 
 ![hasil1](https://user-images.githubusercontent.com/44889084/113510669-1b3beb00-9586-11eb-9ae1-b0637ee520b4.PNG)
 
-Seanjutnya akan memprediski hasil Tes dengan menggunakan data yang ada pada dataset :
+Selanjutnya akan memprediski hasil Tes dengan menggunakan data yang ada pada dataset :
 
 Sebagai berikut data-datanya :
 
