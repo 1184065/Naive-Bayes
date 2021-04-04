@@ -1,2 +1,5 @@
 # Naive-Bayes-classification-on-Iris-dataset
-Using Naive Bayes classification approach to identify the different species of Iris flowers.
+Source Code Naive Bayes disini digunakan untuk mengidentifikasi berbagai spesies bunga iris. Dengan menggunakan Jupyter Notebook dan bahasa pemrograman Python. 
+Untuk menjalankan program tersebut bisa dijalankan sesuai dengan kotak program yang telah sesuai. Tinggal lakukan block program kemudian running. Maka satu persatu program akan menjalankan instruksi dan mengeluarkan outputnya.
+
+
