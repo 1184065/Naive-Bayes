@@ -13,9 +13,11 @@ Sebagai berikut data-datanya :
 ![prediksi](https://user-images.githubusercontent.com/44889084/113511041-019ba300-9588-11eb-87ac-1d2b17b5fe4b.PNG)
 
 Kemudian, kita akan melihat nilai aktual dan sisi prediksi secara berdampingan. Dengan sebelah kiri nilai sebenarnya dan sisi kanan dengan nilai prediksi. 
+
 ![prediksi2](https://user-images.githubusercontent.com/44889084/113511194-cfd70c00-9588-11eb-82be-bd4fc4491ce0.PNG)
 
 Maka, akan diperooleh hasil sebagai berikut ;
+
 ![hasil](https://user-images.githubusercontent.com/44889084/113511268-378d5700-9589-11eb-9a1a-21eba7eb7da9.PNG)
 
 Ditemukan kebenaran bahwa dengan menggunakan prediksi hasil test, prediksi yang benar ada 28 dan prediksi salah ada 2.
