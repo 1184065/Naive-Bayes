@@ -8,6 +8,7 @@ Dengan melihat 5 nilai pertama dari kumpulan datanya, yaitu sebagai berikut :
 
 Seanjutnya akan memprediski hasil Tes dengan menggunakan data yang ada pada dataset :
 Sebagai berikut data-datanya :
+![prediksi](https://user-images.githubusercontent.com/44889084/113511041-019ba300-9588-11eb-87ac-1d2b17b5fe4b.PNG)
 
 
 
