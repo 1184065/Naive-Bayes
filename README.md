@@ -11,7 +11,13 @@ Seanjutnya akan memprediski hasil Tes dengan menggunakan data yang ada pada data
 Sebagai berikut data-datanya :
 ![prediksi](https://user-images.githubusercontent.com/44889084/113511041-019ba300-9588-11eb-87ac-1d2b17b5fe4b.PNG)
 
-Kemudian, kita akan melihat nilai aktual dari sisi sebenarnya dan sisi prediksi secara berdampingan. Dengan sebelah kiri nilai sebenarnya dan sisi kanan dengan nilai prediksi. 
+Kemudian, kita akan melihat nilai aktual dan sisi prediksi secara berdampingan. Dengan sebelah kiri nilai sebenarnya dan sisi kanan dengan nilai prediksi. 
+![prediksi2](https://user-images.githubusercontent.com/44889084/113511194-cfd70c00-9588-11eb-82be-bd4fc4491ce0.PNG)
+
+Maka, akan diperooleh hasil sebagai berikut ;
+
+
+
 
 
 
